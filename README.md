@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 2nd Year B.Tech Computer Engineering @ RK University, Gujarat
+- 🎓 3rd Year B.Tech Computer Engineering @ RK University, Gujarat
 - ☁️ Learning Cloud Computing (AWS, IBM Cloud) & DevOps
 - 🧠 Tech Stack: `HTML` `CSS` `JavaScript` `Python` `SQL` `Laravel`
 - 🐧 Exploring Linux (Garuda,Ubuntu) and automation using Python
