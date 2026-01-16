@@ -1,5 +1,6 @@
 # 💫 About Me:
-3rd Year B.Tech Computer Engineering @ RK University, Gujarat<br>☁️ Learning Cloud Computing (AWS, IBM Cloud) & DevOps<br>🧠 Tech Stack: HTML CSS  Python SQL PHP | Laravel FLutter | Firebase .NET<br>🐧 Exploring Linux  and automation using Python<br>✍️ Also a passionate fiction writer on Wattpad 
+3rd Year B.Tech Computer Engineering @ RK University, Gujarat<br>☁️ Learning Cloud Computing (AWS, IBM Cloud) & DevOps<br>
+⚙️What I am doing now : Implementing CI/CD pipelines using GitHub Actions for automated code quality (Linting/Testing)<br>🧠 Tech Stack: HTML CSS  Python SQL PHP | Laravel FLutter | Firebase .NET<br>🐧 Exploring Linux  and automation using Python<br>✍️ Also a passionate fiction writer on Wattpad 
 
 
 ## 🌐 Socials:
