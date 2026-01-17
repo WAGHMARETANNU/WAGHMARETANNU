@@ -10,17 +10,11 @@ Currently, I’m working on turning my random ideas into practical, working proj
 💡 **About Me**
 
 - 🔭 Currently working on a **JavaScript browser extension** to improve productivity through **website time tracking and usage insights**
-
 - 🌱 Learning **WordPress development, JavaScript, and the MERN stack** to grow as a full-stack web developer
-
 - 👯 Looking to collaborate on **MySQL, PHP, and web development projects** to gain hands-on experience with production-level code
-
 - 🤝 Seeking help with **deepening my understanding of DSA and API design & integration**
-
 - 💬 Ask me about **JavaScript, WordPress basics, and web development fundamentals**
-
 - 📫 Reach me at **tannuwaghmare15@gmail.com**
-
 - ⚡ Fun fact: **I debug more effectively after a short break than after staring at the same code for hours**
 
 - 👨‍💻 Portfolio: **[https://tannu-waghmare.pages.dev/](https://tannu-waghmare.pages.dev/)**
@@ -28,13 +22,9 @@ Currently, I’m working on turning my random ideas into practical, working proj
 🎯 **Current Focus**
 
 - Building and refining **JavaScript-based projects**, including a productivity-focused browser extension
-  
-- Exploring **WordPress development** (themes, plugins, and customization)
-  
+- Exploring **WordPress development** (themes, plugins, and customization) 
 - Strengthening fundamentals in **JavaScript** and **Data Structures & Algorithms (DSA)**
-  
 - Gaining hands-on experience with **Linux** and real-world development workflows
-  
 - Turning ideas into **working, maintainable projects** through consistent practice
 
 🛠️ **Languages and Tools**
