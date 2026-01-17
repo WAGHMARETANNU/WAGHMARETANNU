@@ -13,9 +13,7 @@ Currently, I’m working on turning my random ideas into practical, working proj
 - 🌱 Learning **WordPress development, JavaScript, and the MERN stack** to grow as a full-stack web developer
 - 👯 Looking to collaborate on **MySQL, PHP, and web development projects** to gain hands-on experience with production-level code
 - 🤝 Seeking help with **deepening my understanding of DSA and API design & integration**
-- 💬 Ask me about **JavaScript, WordPress basics, and web development fundamentals**
 - 📫 Reach me at **tannuwaghmare15@gmail.com**
-- ⚡ Fun fact: **I debug more effectively after a short break than after staring at the same code for hours**
 
 - 👨‍💻 Portfolio: **[https://tannu-waghmare.pages.dev/](https://tannu-waghmare.pages.dev/)**
 
