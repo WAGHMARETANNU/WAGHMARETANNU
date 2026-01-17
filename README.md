@@ -20,9 +20,13 @@ Currently, I’m working on turning my random ideas into practical, working proj
 🎯 **Current Focus**
 
 - Building and refining **JavaScript-based projects**, including a productivity-focused browser extension
-- Exploring **WordPress development** (themes, plugins, and customization) 
+
+- Exploring **WordPress development** (themes, plugins, and customization)
+
 - Strengthening fundamentals in **JavaScript** and **Data Structures & Algorithms (DSA)**
+  
 - Gaining hands-on experience with **Linux** and real-world development workflows
+  
 - Turning ideas into **working, maintainable projects** through consistent practice
 
 🛠️ **Languages and Tools**
