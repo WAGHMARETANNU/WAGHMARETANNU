@@ -4,7 +4,6 @@ Hi there! 👋 I'm Tannu Waghmare
 
 ---
 
-I'm Tannu Waghmare, a 3rd year B.Tech Computer Engineering student at RK University, Gujarat.  
 I’m focused on web development and enjoy exploring modern technologies like JavaScript and WordPress, while also building a strong foundation in Linux and data structures & algorithms.
 
 Currently, I’m working on turning my random ideas into practical, working projects and continuously deepening my understanding of JavaScript, DSA, and real-world web development concepts.
