@@ -46,6 +46,7 @@ Currently, I’m working on turning my random ideas into practical, working proj
 
 ---
 ### 🛠️ Recent Activity
+![My GitHub Activity](https://github-readme-stats.vercel.app/api?username=WAGHMARETANNU&show_icons=true&theme=radical)
 ---
 ### 🤝 Connect with me
 
