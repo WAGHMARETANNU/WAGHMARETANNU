@@ -40,7 +40,7 @@ Currently, I’m working on turning my random ideas into practical, working proj
 ### 🛠️ Recent Activity
 
 
-🛠️ **Languages and Tools**
+⚙️ **Languages and Tools**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,express,flutter,dart,firebase,dotnet,laravel,linux,git,github,figma,wordpress,mysql" />
