@@ -1,8 +1,9 @@
 name: Update GitHub Activity
 on:
   schedule:
-    - cron: '0 * * * *' # Updates every hour
-  workflow_dispatch: # Allows you to run it manually
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 permissions:
   contents: write
 
@@ -16,5 +17,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Update recent activity"
+          COMMIT_MSG: "feat: update recent activity [skip ci]"
           MAX_LINES: 5
