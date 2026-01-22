@@ -37,6 +37,9 @@ Currently, I’m working on turning my random ideas into practical, working proj
 
 ---
 
+**Recent Activity**
+
+
 🛠️ **Languages and Tools**
 
 <p align="left">
