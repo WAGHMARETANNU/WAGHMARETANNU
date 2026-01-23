@@ -38,8 +38,19 @@ Currently, I’m working on turning my random ideas into practical, working proj
 
 ⚙️ **Languages and Tools**
 
+**Web & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,express,flutter,dart,firebase,dotnet,laravel,linux,git,github,figma,wordpress,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,wordpress,mysql" alt="Web Stack" />
+</p>
+
+**Frameworks & Libraries**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,flutter,dart,firebase" alt="Frameworks" />
+</p>
+
+**DevOps & Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,figma" alt="Tools" />
 </p>
 
 ---
