@@ -53,5 +53,5 @@ Currently, I’m working on turning my random ideas into practical, working proj
 ---
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WAGHMARETANNU" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WAGHMARETANNU&theme=dark" alt="GitHub Streak" />
 </p>
