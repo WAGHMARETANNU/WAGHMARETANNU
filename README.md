@@ -41,7 +41,6 @@ Currently, I’m working on turning my random ideas into practical, working proj
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,express,flutter,dart,firebase,dotnet,laravel,linux,git,github,figma,wordpress,mysql" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAGHMARETANNU&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 ---
